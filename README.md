@@ -9,3 +9,7 @@
 2. Run the app
    $ streamlit run streamlit_app.py
 
+## Akses Dashboard di Sini
+
+https://wjwuyfwlqpaetoccphh5qj.streamlit.app/
+
